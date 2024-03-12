@@ -20,7 +20,7 @@ This case study aims to explore various aspects of the music dataset, including 
 6. **Momentum Calculation**: Introduced a new column called Momentum, calculated as the number of YouTube views divided by the number of days since release. This metric helps understand the momentum of a song, and the song with the highest momentum was identified.
 
 ## Data Source
-The dataset used for this analysis is available [here](https://docs.google.com/document/d/1RAajwE-ZG_Z4li4h__-L7nleIMClpiatH1QpTuXGL7I/edit). You can explore the detailed analysis in the dataset provided.
+The dataset used for this analysis is available [here](https://docs.google.com/spreadsheets/d/1QxyVnCQs7YlpztABppRVOA6jTf2M2IvnT1XVPREoSKM/edit#gid=0). You can explore the detailed analysis in the dataset provided.
 
 ## Feedback
 If you have any questions, feedback, or suggestions, feel free to reach out. Your input is valuable!
