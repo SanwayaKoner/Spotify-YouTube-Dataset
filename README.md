@@ -1,7 +1,7 @@
 # Spotify-YouTube-Dataset
 # Data Analyst Internship Case Study
 
-Welcome to my Data Analyst Internship Case Study! In this project, I utilized Excel to clean and analyze a dataset related to music. Below is an overview of the analysis conducted:
+Welcome to my Data Analyst Case Study (Excel) ! In this project, I utilized Excel to clean and analyze a dataset related to music. Below is an overview of the analysis conducted:
 
 ## Overview
 This case study aims to explore various aspects of the music dataset, including key distribution, song duration, predictive factors for streams, engagement rates of YouTube videos, title analysis, and momentum calculation.
@@ -20,7 +20,7 @@ This case study aims to explore various aspects of the music dataset, including 
 6. **Momentum Calculation**: Introduced a new column called Momentum, calculated as the number of YouTube views divided by the number of days since release. This metric helps understand the momentum of a song, and the song with the highest momentum was identified.
 
 ## Data Source
-The dataset used for this analysis is available [here](link-to-your-dataset). You can explore the detailed analysis in the dataset provided.
+The dataset used for this analysis is available [here](https://docs.google.com/document/d/1RAajwE-ZG_Z4li4h__-L7nleIMClpiatH1QpTuXGL7I/edit). You can explore the detailed analysis in the dataset provided.
 
 ## Feedback
 If you have any questions, feedback, or suggestions, feel free to reach out. Your input is valuable!
